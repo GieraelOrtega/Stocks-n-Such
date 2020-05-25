@@ -4,7 +4,7 @@ Long Term Investing Ideas
 [Gierael Ortega](https://linkedin.com/in/gieraelortega)'s ideas/thoughts/plans regarding long-term investing in the midst of the COVID-19 pandemic in Spring 2020. Created 2020-05-24. Current topics include:
 
   * Cybersecurity
-  * Developed International Markets
+  * ~~Developed International Markets~~ (After discussion with a colleague, I won't be making this move for the time being)
   * Phone Provider(s)
 
 ***
@@ -34,12 +34,12 @@ With the ever-growing dependence on technology, cyber-attacks have been expandin
 
 ***
 
-Developed International Markets
+~~Developed International Markets~~  (After discussion with a colleague, I won't be making this move for the time being)
 ------------
 
-The COVID-19 pandemic has caused a drastic dip in all markets across the globe. In particular, [VANGUARD DEVELOPED MARKETS INDEX FUND ($VEA)](https://snapshot.fidelity.com/fidresearch/snapshot/landing.jhtml#/research?symbol=VEA) (which is oriented towards international markets) dipped nearly 60% but is already gradually recovering as the world starts to "reopen". Even if a second wave of COVID hits, now may be an optimal time to start averaging down for the long-term.
+~~The COVID-19 pandemic has caused a drastic dip in all markets across the globe. In particular, [VANGUARD DEVELOPED MARKETS INDEX FUND ($VEA)](https://snapshot.fidelity.com/fidresearch/snapshot/landing.jhtml#/research?symbol=VEA) (which is oriented towards international markets) dipped nearly 60% but is already gradually recovering as the world starts to "reopen". Even if a second wave of COVID hits, now may be an optimal time to start averaging down for the long-term.~~
 
-### **My Plan:** Gradually purchase $VEA around $35-$37 and hold long-term ###
+### ~~**My Plan:** Gradually purchase $VEA around $35-$37 and hold long-term~~ ###
 
 - **FactSet Analysis Rating:** "A" ("A" thru "F")
 ![VEA FactSet Analysis Rating](Stocks/VEA/VEA_FactSet_2020-05-24.PNG)
