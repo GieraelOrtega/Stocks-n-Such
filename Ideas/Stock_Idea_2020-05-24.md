@@ -24,13 +24,13 @@ With the ever-growing dependence on technology, cyber-attacks have been expandin
 ### **My Plan:** Gradually purchase $CIBR around $29-$31 and hold long-term ###
 
 - **Top 10 Holdings:**
-![CIBR Top 10 Holdings](Stocks\CIBR\CIBR_Holdings_2020-05-24.png)
+![CIBR Top 10 Holdings](Stocks/CIBR/CIBR_Holdings_2020-05-24.PNG)
 - **FactSet Analysis Rating:** "B" ("A" thru "F")
-![CIBR FactSet Analysis Rating](Stocks\CIBR\CIBR_FactSet_2020-05-24.png)
+![CIBR FactSet Analysis Rating](Stocks/CIBR/CIBR_FactSet_2020-05-24.PNG)
 - **Ned Davis Research Group Analysis Rating:** 4.5/5.0
-![CIBR Ned Davis Research Group Analysis Rating](Stocks\CIBR\CIBR_Ned_2020-05-24.png)
+![CIBR Ned Davis Research Group Analysis Rating](Stocks/CIBR/CIBR_Ned_2020-05-24.PNG)
 - **XTF Analysis Rating:** 8.2/10
-![CIBR XTF Analysis Rating](Stocks\CIBR\CIBR_XTF_2020-05-24.png)
+![CIBR XTF Analysis Rating](Stocks/CIBR/CIBR_XTF_2020-05-24.PNG)
 
 ***
 
@@ -42,11 +42,11 @@ The COVID-19 pandemic has caused a drastic dip in all markets across the globe. 
 ### **My Plan:** Gradually purchase $VEA around $35-$37 and hold long-term ###
 
 - **FactSet Analysis Rating:** "A" ("A" thru "F")
-![VEA FactSet Analysis Rating](Stocks\VEA\VEA_FactSet_2020-05-24.png)
+![VEA FactSet Analysis Rating](Stocks/VEA/VEA_FactSet_2020-05-24.PNG)
 - **MorningStar Analysis Rating:** 4/5
-![VEA MorningStar Analysis Rating](Stocks\VEA\VEA_MorningStar_2020-05-24.png)
+![VEA MorningStar Analysis Rating](Stocks/VEA/VEA_MorningStar_2020-05-24.PNG)
 - **XTF Analysis Rating:** 9.0/10
-![VEA XTF Analysis Rating](Stocks\VEA\VEA_XTF_2020-05-24.png)
+![VEA XTF Analysis Rating](Stocks/VEA/VEA_XTF_2020-05-24.PNG)
 
 ***
 
@@ -62,11 +62,11 @@ Just like all sectors, COVID-19 has hit phone providers quite hard but they stil
 ### **My Plan:** Gradually purchase $T around $28-$31 and hold long-term ###
 
 - **T Dividend Yield:** 6.96%
-![T Dividend Yield](Stocks\T\T_Dividend_2020-05-24.png)
+![T Dividend Yield](Stocks/T/T_Dividend_2020-05-24.PNG)
 - **T Fundamental Analysis:**
-![T Fundamental Analysis](Stocks\T\T_Fundamentals_2020-05-24.png)
+![T Fundamental Analysis](Stocks/T/T_Fundamentals_2020-05-24.PNG)
 - **T Current Status:**
-![T Current Status](Stocks\T\T_Status_2020-05-24.png)
+![T Current Status](Stocks/T/T_Status_2020-05-24.PNG)
 
 ***
 
