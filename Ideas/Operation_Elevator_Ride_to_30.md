@@ -5,23 +5,19 @@ Operation: Elevator Ride to 30
 
   * Exchange-Traded Funds following Cybersecurity
   * Exchange-Traded Funds following the S&P 500
-  * Diverse, Stable-growing Stocks
+  * Stocks with dividends and stable growth across different sectors
 
 ***
 
-Exchange-Traded Funds following Cybersecurity
+Exchange-Traded Funds Following Cybersecurity
 ------------
 
 > “It takes 20 years to build a reputation and few minutes of cyber-incident to ruin it.” - Stephane Nappo
 
-With the ever-growing dependence on technology, cyber-attacks have been expanding in both occurrence and severity (especially with increasing demands in ransomware leading to additional funding for malicious actors). That being said, a long-term investor could potentially leverage this by investing via ETFs such as:
+With the ever-growing dependence on technology, cyber-attacks have been expanding in both occurrence and severity (especially with increasing demands in ransomware leading to additional funding for malicious actors). That being said, a long-term investor could potentially leverage this by investing via security-oriented ETFs such as the [First Trust NASDAQ Cybersecurity ETF ($CIBR)](https://finance.yahoo.com/quote/CIBR).
 
- 1. [Global x Cybersecurity ETF ($BUG)](https://finance.yahoo.com/quote/BUG)
- 2. [First Trust NASDAQ Cybersecurity ETF ($CIBR)](https://finance.yahoo.com/quote/CIBR)
- 3. [ETFMG Prime Cyber Security ETF ($HACK)](https://finance.yahoo.com/quote/HACK)
- 4. [ISHARES Cybersecurity and Tech ETF ($IHAK)](https://finance.yahoo.com/quote/IHAK)
 
-### **My Plan So Far:** Gradually purchase $CIBR (Currently between $30-$32) and hold long-term ###
+### **My Plan So Far:** Gradually purchase [**$CIBR**](https://finance.yahoo.com/quote/CIBR) (Currently between $30-$32) and hold long-term ###
 
 - **Top 10 Holdings:**
 ![CIBR Top 10 Holdings](Stocks/CIBR/CIBR_Holdings_2020-05-24.PNG)
@@ -37,9 +33,9 @@ With the ever-growing dependence on technology, cyber-attacks have been expandin
 Exchange-Traded Funds following the S&P 500
 ------------
 
-The COVID-19 pandemic has caused a drastic dip in all markets across the globe. Despite this, the S&P 500 has already begun climbing up towards pre-virus levels as the world starts to "reopen". Even if a "second wave" of the virus occurs, we may be near the levels worth investing in ETFs that track the S&P 500 such as the [SPDR S&P 500 ETF TRUST ($SPY)](https://finance.yahoo.com/quote/SPY).
+The COVID-19 pandemic has caused a drastic dip in many markets across the globe. Despite this, the S&P 500 has already begun climbing up towards pre-virus levels as the world starts to "reopen". Even if a "second wave" of the virus occurs, we may be near the levels worth investing in ETFs that track the S&P 500 such as the [SPDR S&P 500 ETF TRUST ($SPY)](https://finance.yahoo.com/quote/SPY).
 
-### **My Plan So Far:** Gradually purchase $SPY (Currently between $295-$305) and hold long-term ###
+### **My Plan So Far:** Gradually purchase [**$SPY**](https://finance.yahoo.com/quote/SPY). (Currently between $295-$305) and hold long-term ###
 
 - **FactSet Analysis Rating:** "A" ("A" thru "F")
 ![SPY FactSet Analysis Rating](Stocks/SPY/SPY_FactSet_2020-05-27.PNG)
@@ -55,27 +51,33 @@ Relatively Stable Stocks with a Dividend Payout
 
 In addition to investing in ETFs, I plan to diversify my portfolio with the purchase of companies in various sectors with a history of consistent growth and dividends. Since I intend to hold onto my investments for many years (>7 years), capitalizing on these stocks may prove to be lucrative as they continue to recover and grow. Potential prospects include:
 
- 1. [REALTY INCOME CORP ($O)](https://finance.yahoo.com/quote/O)
- 2. [Microsoft ($MSFT)](https://finance.yahoo.com/quote/MSFT)
+ 1. [Microsoft ($MSFT)](https://finance.yahoo.com/quote/MSFT)
+ 2. [Realty Income Corp ($O)](https://finance.yahoo.com/quote/O)
  3. [Coca-Cola Company ($KO)](https://finance.yahoo.com/quote/KO)
  4. [Johnson & Johnson ($JNJ)](https://finance.yahoo.com/quote/JNJ)
  5. [AT&T ($T)](https://finance.yahoo.com/quote/T)
 
 ### **My Plan So Far:**
-- Gradually purchase $O (Currently between $54-$56)  
-  (Real Estate)  
 
-- Gradually purchase $MSFT (Currently between $175-$185)  
-  (Technology)  
+- Gradually purchase [**$MSFT**](https://finance.yahoo.com/quote/MSFT) (Currently between $175-$185) and hold long-term
+  - Sector: [Software](https://www.marketscreener.com/MICROSOFT-CORPORATION-4835/)
+  - Annual Dividend/Yield: [~$2.04 / ~1.12% (Per Share)](https://www.dividend.com/dividend-stocks/technology/application-software/msft-microsoft/)
 
-- Gradually purchase $KO (Currently between $44-$47)  
-  (Beverage)  
+- Gradually purchase [**$O**](https://finance.yahoo.com/quote/O) (Currently between $54-$56) and hold long-term
+  - Sector: [Commercial REITs](https://www.marketscreener.com/REALTY-INCOME-CORPORATION-13868/)
+  - Annual Dividend/Yield: [~$2.80 / ~5.40% (Per Share)](https://www.dividend.com/dividend-stocks/financial/reit-retail/o-realty-income-corp)
 
-- Gradually purchase $JNJ (Currently between $142-$152)  
-  (Medical/Pharmaceutical/Consumer Goods)  
+- Gradually purchase [**$KO**](https://finance.yahoo.com/quote/KO) (Currently between $44-$47) and hold long-term
+  - Sector: [Non-Alcoholic Beverages](https://www.marketscreener.com/KOSPI-COMPOSITE-INDEX-2355012/)
+  - Annual Dividend/Yield: [~$1.64 / ~3.56% (Per Share)](https://www.dividend.com/dividend-stocks/consumer-goods/beverages-soft-drinks/ko-coca-cola-co)
 
-- Gradually purchase $T (Currently between $30-$32)  
-  (Phone Provider)  
+- Gradually purchase [**$JNJ**](https://finance.yahoo.com/quote/JNJ) (Currently between $142-$152) and hold long-term
+  - Sector: [Pharmaceuticals](https://www.marketscreener.com/JOHNSON-JOHNSON-4832/)
+  - Annual Dividend/Yield: [~$4.04 / ~2.79% (Per Share)](https://www.dividend.com/dividend-stocks/healthcare/drug-manufacturers-major/jnj-johnson-and-johnson)
+
+- Gradually purchase [**$T**](https://finance.yahoo.com/quote/T) (Currently between $30-$32) and hold long-term
+  - Sector: [Wireless Telecommunications Services](https://www.marketscreener.com/AT-T-INC-14324/)
+  - Annual Dividend/Yield: [~$2.08 / ~6.99% (Per Share)](https://www.dividend.com/dividend-stocks/technology/telecom-services-domestic/t-atandt)
 
 ***
 
