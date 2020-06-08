@@ -1,5 +1,5 @@
-# Stonks-n-Such
-This is a basic repository that, as the title shows, houses `Stonks` and `Such`. This includes but is not limited to:
+# Stocks-n-Such
+This is a basic repository that, as the title shows, houses `Stocks` and `Such`. This includes but is not limited to:
 - [Ideas related to personal investing decisions](Ideas)
 - Company research/findings
 - Calculations and charting related to stocks
