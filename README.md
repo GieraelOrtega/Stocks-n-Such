@@ -25,4 +25,3 @@ This repo is created and managed by [`Gierael Ortega`][LinkedIn].
 ```
 
 [LinkedIn]: https://linkedin.com/in/gieraelortega/
-[MailTo]: mailto:gieraelortega.business@gmail.com
