@@ -3,13 +3,10 @@ This is a basic repository that, as the title shows, houses `Stocks` and `Such`.
 - [Ideas related to personal investing decisions](Ideas)
 - Company research/findings
 - Calculations and charting related to stocks
-- Etc.
 
 # License & Contribution
 
-This repo is created and managed by [`Gierael Ortega`][LinkedIn]
-
-Feel free to contact him via email at [`gieraelortega.business@gmail.com`][MailTo] or via [LinkedIn][LinkedIn]
+This repo is created and managed by [`Gierael Ortega`][LinkedIn].
 
 ```
    Copyright 2020 Gierael Ortega
